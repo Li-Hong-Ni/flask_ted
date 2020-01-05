@@ -1,7 +1,10 @@
 ### TED演讲数据可视化分析
 
 github链接：[https://github.com/Li-Hong-Ni/flask_ted](https://github.com/Li-Hong-Ni/flask_ted)  
-pythonanywhere部署：[http://lhn.pythonanywhere.com](http://lhn.pythonanywhere.com)
+【请点击数据分析展示（TED数据分析）（TED数据筛选）】  
+pythonanywhere部署：[http://lhn.pythonanywhere.com](http://lhn.pythonanywhere.com)  
+TED数据分析：[http://lhn.pythonanywhere.com/line](http://lhn.pythonanywhere.com/line)    
+TED数据筛选：[http://lhn.pythonanywhere.com/line](http://lhn.pythonanywhere.com/line)
 
 
 #### 研究背景
